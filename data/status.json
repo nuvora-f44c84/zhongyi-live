@@ -1,8 +1,8 @@
 {
   "ok": true,
   "year": 2026,
-  "updated_utc": "2026-10-17T17:59:11.328081+00:00",
-  "updated_shanghai": "2026-10-18T01:59:11.328081+08:00",
+  "updated_utc": "2026-10-18T16:36:12.584169+00:00",
+  "updated_shanghai": "2026-10-19T00:36:12.584169+08:00",
   "lookahead_days": 7,
   "total_matches": 360,
   "checked_matches": 12,
@@ -13,186 +13,18 @@
   "info_entries": 2,
   "all_info_entries": 2,
   "standby": true,
-  "standby_label": "暂无可用直播 · 下场 10-18 15:00 长春喜都 vs 湖北青年星",
+  "standby_label": "暂无可用直播 · 下场 10-23 15:30 上海海港富盛经开 vs 杭州临平吴越",
   "standby_state": "awaiting_next_match",
   "next_match": {
-    "match_id": "2286856",
-    "kickoff": "2026-10-18T15:00:00+08:00",
-    "home": "长春喜都",
-    "away": "湖北青年星"
+    "match_id": "2286828",
+    "kickoff": "2026-10-23T15:30:00+08:00",
+    "home": "上海海港富盛经开",
+    "away": "杭州临平吴越"
   },
   "quality_labels": "official_advertised_not_measured",
   "source": "https://stats.qiumibao.com/shuju/public/index.php?_url=%2Fdata%2Findex&year=2026&league=%E4%B8%AD%E4%B9%99&league_id=355&type=%E8%B5%9B%E7%A8%8B&tab=%E8%B5%9B%E7%A8%8B",
   "warnings": [],
   "matches": [
-    {
-      "match_id": "2286856",
-      "match_status": "未开始",
-      "source_status": "not_playable_yet",
-      "sources": [
-        {
-          "provider": "直播吧视频直播",
-          "channel_id": "kball_17379",
-          "quality_label": "超清1080P",
-          "short_label": "超清",
-          "quality_height": 1080,
-          "source_url": "http://freevip.client.com/2286856/rtmp%3A%2F%2Fhslive.tiyucdn.com%2Fzbbleft%2F1015azth94455",
-          "rtmp_url": "rtmp://hslive.tiyucdn.com/zbbleft/1015azth94455",
-          "candidate_url": "https://hslive.tiyucdn.com/zbbleft/1015azth94455.m3u8",
-          "status": "probe_failed",
-          "verified": false,
-          "schema_path": "video_live.section_info[0].data[0].url_list[1]",
-          "start_time": "1792306200",
-          "end_time": "1792317600",
-          "live_status_url": "https://bifen.qiumibao.com/json/live_status/2286856_1015azth94455.htm",
-          "error": "HTTP Error 404: Not Found"
-        },
-        {
-          "provider": "直播吧视频直播",
-          "channel_id": "kball_17379",
-          "quality_label": "高清720P",
-          "short_label": "高清",
-          "quality_height": 720,
-          "source_url": "http://freevip.client.com/2286856/rtmp%3A%2F%2Fhslive.tiyucdn.com%2Fzbbleft%2F1015azth94455_30fps",
-          "rtmp_url": "rtmp://hslive.tiyucdn.com/zbbleft/1015azth94455_30fps",
-          "candidate_url": "https://hslive.tiyucdn.com/zbbleft/1015azth94455_30fps.m3u8",
-          "status": "probe_failed",
-          "verified": false,
-          "schema_path": "video_live.section_info[0].data[0].url_list[0]",
-          "start_time": "1792306200",
-          "end_time": "1792317600",
-          "live_status_url": "https://bifen.qiumibao.com/json/live_status/2286856_1015azth94455.htm",
-          "error": "HTTP Error 404: Not Found"
-        }
-      ],
-      "errors": []
-    },
-    {
-      "match_id": "2286857",
-      "match_status": "未开始",
-      "source_status": "not_playable_yet",
-      "sources": [
-        {
-          "provider": "直播吧视频直播",
-          "channel_id": "kball_17380",
-          "quality_label": "超清1080P",
-          "short_label": "超清",
-          "quality_height": 1080,
-          "source_url": "http://freevip.client.com/2286857/rtmp%3A%2F%2Fhslive.tiyucdn.com%2Fzbbleft%2F1015ffwy30146",
-          "rtmp_url": "rtmp://hslive.tiyucdn.com/zbbleft/1015ffwy30146",
-          "candidate_url": "https://hslive.tiyucdn.com/zbbleft/1015ffwy30146.m3u8",
-          "status": "probe_failed",
-          "verified": false,
-          "schema_path": "video_live.section_info[0].data[0].url_list[1]",
-          "start_time": "1792309800",
-          "end_time": "1792321200",
-          "live_status_url": "https://bifen.qiumibao.com/json/live_status/2286857_1015ffwy30146.htm",
-          "error": "HTTP Error 404: Not Found"
-        },
-        {
-          "provider": "直播吧视频直播",
-          "channel_id": "kball_17380",
-          "quality_label": "高清720P",
-          "short_label": "高清",
-          "quality_height": 720,
-          "source_url": "http://freevip.client.com/2286857/rtmp%3A%2F%2Fhslive.tiyucdn.com%2Fzbbleft%2F1015ffwy30146_30fps",
-          "rtmp_url": "rtmp://hslive.tiyucdn.com/zbbleft/1015ffwy30146_30fps",
-          "candidate_url": "https://hslive.tiyucdn.com/zbbleft/1015ffwy30146_30fps.m3u8",
-          "status": "probe_failed",
-          "verified": false,
-          "schema_path": "video_live.section_info[0].data[0].url_list[0]",
-          "start_time": "1792309800",
-          "end_time": "1792321200",
-          "live_status_url": "https://bifen.qiumibao.com/json/live_status/2286857_1015ffwy30146.htm",
-          "error": "HTTP Error 404: Not Found"
-        }
-      ],
-      "errors": []
-    },
-    {
-      "match_id": "2286910",
-      "match_status": "未开始",
-      "source_status": "not_playable_yet",
-      "sources": [
-        {
-          "provider": "直播吧视频直播",
-          "channel_id": "kball_17381",
-          "quality_label": "超清1080P",
-          "short_label": "超清",
-          "quality_height": 1080,
-          "source_url": "http://freevip.client.com/2286910/rtmp%3A%2F%2Fhslive.tiyucdn.com%2Fzbbleft%2F1015jamd66771",
-          "rtmp_url": "rtmp://hslive.tiyucdn.com/zbbleft/1015jamd66771",
-          "candidate_url": "https://hslive.tiyucdn.com/zbbleft/1015jamd66771.m3u8",
-          "status": "probe_failed",
-          "verified": false,
-          "schema_path": "video_live.section_info[0].data[0].url_list[1]",
-          "start_time": "1792322400",
-          "end_time": "1792333800",
-          "live_status_url": "https://bifen.qiumibao.com/json/live_status/2286910_1015jamd66771.htm",
-          "error": "HTTP Error 404: Not Found"
-        },
-        {
-          "provider": "直播吧视频直播",
-          "channel_id": "kball_17381",
-          "quality_label": "高清720P",
-          "short_label": "高清",
-          "quality_height": 720,
-          "source_url": "http://freevip.client.com/2286910/rtmp%3A%2F%2Fhslive.tiyucdn.com%2Fzbbleft%2F1015jamd66771_30fps",
-          "rtmp_url": "rtmp://hslive.tiyucdn.com/zbbleft/1015jamd66771_30fps",
-          "candidate_url": "https://hslive.tiyucdn.com/zbbleft/1015jamd66771_30fps.m3u8",
-          "status": "probe_failed",
-          "verified": false,
-          "schema_path": "video_live.section_info[0].data[0].url_list[0]",
-          "start_time": "1792322400",
-          "end_time": "1792333800",
-          "live_status_url": "https://bifen.qiumibao.com/json/live_status/2286910_1015jamd66771.htm",
-          "error": "HTTP Error 404: Not Found"
-        }
-      ],
-      "errors": []
-    },
-    {
-      "match_id": "2286911",
-      "match_status": "未开始",
-      "source_status": "not_playable_yet",
-      "sources": [
-        {
-          "provider": "直播吧视频直播",
-          "channel_id": "kball_17382",
-          "quality_label": "超清1080P",
-          "short_label": "超清",
-          "quality_height": 1080,
-          "source_url": "http://freevip.client.com/2286911/rtmp%3A%2F%2Fhslive.tiyucdn.com%2Fzbbleft%2F1015ulhr61579",
-          "rtmp_url": "rtmp://hslive.tiyucdn.com/zbbleft/1015ulhr61579",
-          "candidate_url": "https://hslive.tiyucdn.com/zbbleft/1015ulhr61579.m3u8",
-          "status": "probe_failed",
-          "verified": false,
-          "schema_path": "video_live.section_info[0].data[0].url_list[1]",
-          "start_time": "1792322700",
-          "end_time": "1792334100",
-          "live_status_url": "https://bifen.qiumibao.com/json/live_status/2286911_1015ulhr61579.htm",
-          "error": "HTTP Error 404: Not Found"
-        },
-        {
-          "provider": "直播吧视频直播",
-          "channel_id": "kball_17382",
-          "quality_label": "高清720P",
-          "short_label": "高清",
-          "quality_height": 720,
-          "source_url": "http://freevip.client.com/2286911/rtmp%3A%2F%2Fhslive.tiyucdn.com%2Fzbbleft%2F1015ulhr61579_30fps",
-          "rtmp_url": "rtmp://hslive.tiyucdn.com/zbbleft/1015ulhr61579_30fps",
-          "candidate_url": "https://hslive.tiyucdn.com/zbbleft/1015ulhr61579_30fps.m3u8",
-          "status": "probe_failed",
-          "verified": false,
-          "schema_path": "video_live.section_info[0].data[0].url_list[0]",
-          "start_time": "1792322700",
-          "end_time": "1792334100",
-          "live_status_url": "https://bifen.qiumibao.com/json/live_status/2286911_1015ulhr61579.htm",
-          "error": "HTTP Error 404: Not Found"
-        }
-      ],
-      "errors": []
-    },
     {
       "match_id": "2286828",
       "match_status": "未开始",
@@ -244,6 +76,34 @@
     },
     {
       "match_id": "2286859",
+      "match_status": "未开始",
+      "source_status": "no_official_source",
+      "sources": [],
+      "errors": []
+    },
+    {
+      "match_id": "2286860",
+      "match_status": "未开始",
+      "source_status": "no_official_source",
+      "sources": [],
+      "errors": []
+    },
+    {
+      "match_id": "2286831",
+      "match_status": "未开始",
+      "source_status": "no_official_source",
+      "sources": [],
+      "errors": []
+    },
+    {
+      "match_id": "2286861",
+      "match_status": "未开始",
+      "source_status": "no_official_source",
+      "sources": [],
+      "errors": []
+    },
+    {
+      "match_id": "2286915",
       "match_status": "未开始",
       "source_status": "no_official_source",
       "sources": [],
