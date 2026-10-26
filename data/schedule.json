@@ -1,11 +1,11 @@
 {
   "meta": {
     "year": 2026,
-    "updated_utc": "2026-10-25T16:43:32.914368+00:00",
-    "updated_shanghai": "2026-10-26T00:43:32.914368+08:00",
+    "updated_utc": "2026-10-26T19:52:16.207638+00:00",
+    "updated_shanghai": "2026-10-27T03:52:16.207638+08:00",
     "lookahead_days": 7,
     "total_matches": 360,
-    "checked_matches": 13,
+    "checked_matches": 12,
     "playable_matches": 0,
     "live_matches": 0,
     "playlist_entries": 2,
@@ -13,13 +13,13 @@
     "info_entries": 2,
     "all_info_entries": 2,
     "standby": true,
-    "standby_label": "暂无可用直播 · 下场 10-26 15:30 山东泰山B队 vs 江西庐山",
+    "standby_label": "暂无可用直播 · 下场 10-31 14:30 兰州陇原竞技 vs 湖北青年星",
     "standby_state": "awaiting_next_match",
     "next_match": {
-      "match_id": "2286829",
-      "kickoff": "2026-10-26T15:30:00+08:00",
-      "home": "山东泰山B队",
-      "away": "江西庐山"
+      "match_id": "2286862",
+      "kickoff": "2026-10-31T14:30:00+08:00",
+      "home": "兰州陇原竞技",
+      "away": "湖北青年星"
     },
     "quality_labels": "official_advertised_not_measured",
     "source": "https://stats.qiumibao.com/shuju/public/index.php?_url=%2Fdata%2Findex&year=2026&league=%E4%B8%AD%E4%B9%99&league_id=355&type=%E8%B5%9B%E7%A8%8B&tab=%E8%B5%9B%E7%A8%8B"
@@ -6016,7 +6016,6 @@
       "score": "1-1",
       "sources": [],
       "source_status": "not_checked",
-      "live_status_code": 8,
       "match_status": "已结束",
       "is_live": false
     },
@@ -6035,7 +6034,6 @@
       "score": "0-0",
       "sources": [],
       "source_status": "not_checked",
-      "live_status_code": 8,
       "match_status": "已结束",
       "is_live": false
     },
@@ -6054,7 +6052,6 @@
       "score": "3-0",
       "sources": [],
       "source_status": "not_checked",
-      "live_status_code": 8,
       "match_status": "已结束",
       "is_live": false
     },
@@ -6069,47 +6066,11 @@
       "away_logo": "https://duihui.duoduocdn.com/zuqiu/zq_jiangxibeidamenzuqiujulebu_823691.png",
       "path": "/zhibo/zuqiu/2026/match2286829vplayer.htm",
       "page_url": "https://www.zhibo8.com/zhibo/zuqiu/2026/match2286829vplayer.htm",
-      "finished": false,
-      "score": "-",
-      "sources": [
-        {
-          "provider": "直播吧视频直播",
-          "channel_id": "kball_17500",
-          "quality_label": "超清1080P",
-          "short_label": "超清",
-          "quality_height": 1080,
-          "source_url": "http://freevip.client.com/2286829/rtmp%3A%2F%2Fhslive.tiyucdn.com%2Fzbbleft%2F1022zfgw36280",
-          "rtmp_url": "rtmp://hslive.tiyucdn.com/zbbleft/1022zfgw36280",
-          "candidate_url": "https://hslive.tiyucdn.com/zbbleft/1022zfgw36280.m3u8",
-          "status": "probe_failed",
-          "verified": false,
-          "schema_path": "video_live.section_info[0].data[0].url_list[1]",
-          "start_time": "1792999200",
-          "end_time": "1793010600",
-          "live_status_url": "https://bifen.qiumibao.com/json/live_status/2286829_1022zfgw36280.htm",
-          "error": "HTTP Error 404: Not Found"
-        },
-        {
-          "provider": "直播吧视频直播",
-          "channel_id": "kball_17500",
-          "quality_label": "高清720P",
-          "short_label": "高清",
-          "quality_height": 720,
-          "source_url": "http://freevip.client.com/2286829/rtmp%3A%2F%2Fhslive.tiyucdn.com%2Fzbbleft%2F1022zfgw36280_30fps",
-          "rtmp_url": "rtmp://hslive.tiyucdn.com/zbbleft/1022zfgw36280_30fps",
-          "candidate_url": "https://hslive.tiyucdn.com/zbbleft/1022zfgw36280_30fps.m3u8",
-          "status": "probe_failed",
-          "verified": false,
-          "schema_path": "video_live.section_info[0].data[0].url_list[0]",
-          "start_time": "1792999200",
-          "end_time": "1793010600",
-          "live_status_url": "https://bifen.qiumibao.com/json/live_status/2286829_1022zfgw36280.htm",
-          "error": "HTTP Error 404: Not Found"
-        }
-      ],
-      "source_status": "not_playable_yet",
-      "live_status_code": 1,
-      "match_status": "未开始",
+      "finished": true,
+      "score": "2-1",
+      "sources": [],
+      "source_status": "not_checked",
+      "match_status": "已结束",
       "is_live": false
     },
     {
